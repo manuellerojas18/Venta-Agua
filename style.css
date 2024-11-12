@@ -1,0 +1,27 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+}
+body{
+    background-color: #0FF4C6;
+}
+header{
+    background-color: #404E7C;
+    min-height: 100px;
+}
+.principal{
+    text-align: center;
+    padding: 45px;
+    color: #D8BD8A;
+}
+.menu{
+    text-align: center;
+    background-color: #404e7cf1;
+    height: 30px;
+}
+
+a{  
+    color: #D8BD8A;
+    text-decoration: none;
+    margin-left: 25px;
+}
